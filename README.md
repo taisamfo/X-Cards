@@ -1,3 +1,3 @@
 # X-Cards
 
-https://x-card.netlify.app/
+https://x-cards.netlify.app/
